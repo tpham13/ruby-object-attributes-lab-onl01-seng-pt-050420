@@ -14,5 +14,6 @@ class Dog
 
 end
 
-
+rover = Dog.name
+rover.name 
 
