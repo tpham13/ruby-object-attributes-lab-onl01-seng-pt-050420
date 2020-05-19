@@ -10,4 +10,4 @@ class Dog
 end
 
 rover = Dog.new 
-rove.name 
+rover.name 
