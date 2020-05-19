@@ -9,5 +9,5 @@ class Dog
   end
 end
 
-rover = Dog.new 
+
 
